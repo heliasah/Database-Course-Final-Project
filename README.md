@@ -11,3 +11,7 @@ This repository provides the MySQL database schema for an online shopping platfo
 -Shipping Information: Handle delivery details for orders.
 -Discounts: Apply promotional discounts or offers to products or orders.
 
+Web Crawling:
+
+Utilizes Beautiful Soup to scrape data from laptop stores, enabling automated data collection for products and pricing.
+
